@@ -1,0 +1,18 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import { BrowserRouter } from 'react-router-dom';
+import { CookiesProvider } from 'react-cookie';
+import App from './App';
+import './index.css';
+import "antd/dist/reset.css"; // Add this line for Antd v4
+
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+      <CookiesProvider>
+        <BrowserRouter>
+          <App />
+        </BrowserRouter>
+      </CookiesProvider>
+  </React.StrictMode>
+);
