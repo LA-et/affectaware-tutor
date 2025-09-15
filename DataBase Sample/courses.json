@@ -1,0 +1,61 @@
+[{
+  "CourseID": "PK20241288997837493",
+  "Title": "Intoduction to Geometry",
+  "Description": "This course explores the fundamental concepts of shapes, sizes, and spatial relationships, forming the foundation for understanding the properties of two-dimensional and three-dimensional objects.",
+  "Thumbnail": "PK20241288997837493/main.webp",
+  "Learnings": [
+    "Define and differentiate between triangles and quadrilaterals.",
+    "Identify the sides and angles of triangles and quadrilaterals.",
+    "Distinguish between adjacent and opposite sides/angles in quadrilaterals.",
+    "Label and describe essential parts of a circle.",
+    "Apply theorems such as the triangle inequality and centroid theorem to solve mathematical problems."
+  ],
+  "PreTest": "PK2024121212636387876333",
+  "PostTest": "PK2024121212636387876334",
+  "Modules": [
+    "PK202412884637",
+    "PK202412884657",
+    "PK202412884667"
+  ],
+  "createdAt": {
+    "$date": "2024-12-01T10:26:01.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T12:18:28.417Z"
+  },
+  "Status": true
+},
+{
+  "CourseID": "PK20250488997837997",
+  "Title": "Fractions",
+  "Description": "This course explores the fundamental concepts of fractions and its types. It also covers basic operations on fractions and its conversions from one type to other.",
+  "Thumbnail": "PK20250488997837997/main.webp",
+  "Learnings": [
+    "Understand and represent fractions as parts of a whole.",
+    "Identify numerator/denominator and their meaning.",
+    "Compare simple fractions (like unit fractions).",
+    "Recognize basic fraction concepts and common errors.",
+    "Distinguish between proper, improper, and mixed numbers.",
+    "Convert between mixed numbers and improper fractions.",
+    "Recognize like/unlike fractions.",
+    "Find, verify, and simplify equivalent fractions.",
+    "Add and subtract fractions with common and different denominators.",
+    "Multiply fractions (including with whole numbers).",
+    "Divide fractions using reciprocals.",
+    "Solve word problems applying fraction operations."
+  ],
+  "PreTest": "PK20250488997837997986745",
+  "PostTest": "PK2025048899783799709896",
+  "Modules": [
+    "PK202504889560",
+    "PK202504889209",
+    "PK202504884656"
+  ],
+  "createdAt": {
+    "$date": "2024-12-01T10:26:01.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-01T12:18:28.417Z"
+  },
+  "Status": true
+}]

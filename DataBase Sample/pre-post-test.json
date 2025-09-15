@@ -1,0 +1,248 @@
+[{
+  "CourseID": "PK20241288997837493",
+  "ID": "PK2024121212636387876333",
+  "Type": "PreTest",
+  "Questions": [
+    {
+      "ID": "1",
+      "Question": "What is a triangle?",
+      "Options": [
+        "A shape with four sides",
+        "A shape with three sides",
+        "A shape with two sides",
+        "None of the above"
+      ],
+      "Answer": "A shape with three sides"
+    },
+    {
+      "ID": "2",
+      "Question": "How many angles does a triangle have?",
+      "Options": [
+        "2",
+        "3",
+        "4",
+        "None of the above"
+      ],
+      "Answer": "3"
+    },
+    {
+      "ID": "3",
+      "Question": "Which of the following is NOT a type of triangle?",
+      "Options": [
+        "Equilateral triangle",
+        "Isosceles triangle",
+        "Quadrilateral triangle",
+        "Scalene triangle"
+      ],
+      "Answer": "Quadrilateral triangle"
+    },
+    {
+      "ID": "4",
+      "Question": "What is the diameter of a circle?",
+      "Options": [
+        "The distance halfway across the circle.",
+        "The length from the center to any point on the circle.",
+        "The curved boundary of the circle.",
+        "A chord that passes through the center."
+      ],
+      "Answer": "A chord that passes through the center."
+    },
+    {
+      "ID": "5",
+      "Question": "A quadrilateral has two pairs of opposite sides. What do we call the pair of sides that are next to each other?",
+      "Options": [
+        "Opposite sides",
+        "Adjacent sides",
+        "Parallel sides",
+        "Equal sides"
+      ],
+      "Answer": "Adjacent sides"
+    }
+  ]
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ID": "PK2024121212636387876334",
+  "Type": "PostTest",
+  "Questions": [
+    {
+      "ID": "1",
+      "Question": "Which of the following is always true for an equilateral triangle?",
+      "Options": [
+        "All angles are 60°",
+        "Two sides are equal",
+        "One angle is 90°",
+        "None of the above"
+      ],
+      "Answer": "All angles are 60°"
+    },
+    {
+      "ID": "2",
+      "Question": "Which statement best describes the relationship between angles in an isosceles triangle?",
+      "Options": [
+        "Two angles are equal",
+        "All three angles are equal",
+        "The largest angle is always 90°",
+        "None of the above"
+      ],
+      "Answer": "Two angles are equal"
+    },
+    {
+      "ID": "3",
+      "Question": "In a circle, the chord AB does not pass through the center. Which part is formed between chord AB and the arc connecting points A and B?",
+      "Options": [
+        "Diameter",
+        "Segment",
+        "Sector",
+        "Radius"
+      ],
+      "Answer": "Segment"
+    },
+    {
+      "ID": "4",
+      "Question": "You are given a figure with four sides. Two sides are equal and meet at one angle. Another student says these sides are “opposite sides.” Do you agree? Explain.",
+      "Options": [
+        "Yes, because equal sides are always opposite.",
+        "No, because sides that meet at a corner are adjacent, not opposite.",
+        "Yes, because the other two sides are also adjacent.",
+        "No, because equal sides are never adjacent."
+      ],
+      "Answer": "No, because sides that meet at a corner are adjacent, not opposite."
+    },
+    {
+      "ID": "5",
+      "Question": "A triangle has angles measuring 40°, 60°, and 80°. Which best describes this triangle?",
+      "Options": [
+        "Acute, Equilateral",
+        "Right, Scalene",
+        "Acute, Scalene",
+        "Obtuse, Isosceles"
+      ],
+      "Answer": "Acute, Scalene"
+    }
+  ]
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ID": "PK20250488997837997986745",
+  "Type": "PreTest",
+  "Questions": [
+    {
+      "ID": "1",
+      "Question": "In the fraction 3/4, what does the number 4 represent?",
+      "Options": [
+        "The part of the whole being considered.",
+        "The total number of equal parts the whole is divided into.",
+        "The value of the fraction as a whole number.",
+        "The numerator."
+      ],
+      "Answer": "The total number of equal parts the whole is divided into."
+    },
+    {
+      "ID": "2",
+      "Question": "Which of the following is an example of a mixed number?",
+      "Options": [
+        "5/2",
+        "3",
+        "1 1/2",
+        "0.75"
+      ],
+      "Answer": "1 1/2"
+    },
+    {
+      "ID": "3",
+      "Question": "Which fraction is equivalent to 1/2?",
+      "Options": [
+        "2/3",
+        "3/4",
+        "2/4",
+        "1/4"
+      ],
+      "Answer": "2/4"
+    },
+    {
+      "ID": "4",
+      "Question": "When adding fractions with the same denominator, what do you do with the numerators?",
+      "Options": [
+        "Add them",
+        "Multiply them",
+        "Subtract them",
+        "Divide them"
+      ],
+      "Answer": "Add them"
+    },
+    {
+      "ID": "5",
+      "Question": "If you have 1/2 of a pie and you eat 1/4 of that pie, what fraction of the whole pie did you eat?",
+      "Options": [
+        "1/2",
+        "1/4",
+        "3/4",
+        "1/8"
+      ],
+      "Answer": "1/8"
+    }
+  ]
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ID": "PK2025048899783799709896",
+  "Type": "PostTest",
+  "Questions": [
+    {
+      "ID": "1",
+      "Question": "How would you write the fraction 7/4 as a mixed number?",
+      "Options": [
+        "1 3/4",
+        "1 1/4",
+        "1 2/4",
+        "4 1/7"
+      ],
+      "Answer": "1 3/4"
+    },
+    {
+      "ID": "2",
+      "Question": "Are the fractions 3/5 and 6/10 equivalent?",
+      "Options": [
+        "No",
+        "Yes",
+        "Cannot be determined",
+        "Only if the whole is different"
+      ],
+      "Answer": "Yes"
+    },
+    {
+      "ID": "3",
+      "Question": "To subtract fractions with different denominators, you must first:",
+      "Options": [
+        "Subtract the numerators",
+        "Subtract the denominators",
+        "Find a common denominator",
+        "Flip the second fraction"
+      ],
+      "Answer": "Find a common denominator"
+    },
+    {
+      "ID": "4",
+      "Question": "What is the result of multiplying 2/3 by 1/4?",
+      "Options": [
+        "3/7",
+        "2/12",
+        "8/3",
+        "1/6"
+      ],
+      "Answer": "1/6"
+    },
+    {
+      "ID": "5",
+      "Question": "When dividing fractions, you multiply the first fraction by the ________ of the second fraction.",
+      "Options": [
+        "Numerator",
+        "Denominator",
+        "Reciprocal",
+        "Sum"
+      ],
+      "Answer": "Reciprocal"
+    }
+  ]
+}]

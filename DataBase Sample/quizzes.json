@@ -1,0 +1,576 @@
+[{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884637",
+  "QuizID": "PK202412425725",
+  "Question": "How many sides does a triangle have?",
+  "Options": [
+    "2",
+    "3",
+    "4",
+    "None of the above"
+  ],
+  "Answer": "3",
+  "Explaination": "A triangle is a closed shape with exactly three straight sides and three angles. This is a defining property of triangles, which differentiates them from other polygons. Hence, the answer is B.",
+  "Correct_Explaination": "Great job! You correctly identified the number of sides in a triangle, showing an understanding of its fundamental property.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884637",
+  "QuizID": "PK202412425726",
+  "Question": "How many sides and angles does a quadrilateral have?",
+  "Options": [
+    "3 sides and 3 angles",
+    "4 sides and 4 angles",
+    "4 sides and 2 angles",
+    "5 sides and 5 angles"
+  ],
+  "Answer": "4 sides and 4 angles",
+  "Explaination": "A. Describes a triangle.\n\nC. A quadrilateral always has 4 angles, not 2.\n\nD. Describes a pentagon, which is not part of this lesson.",
+  "Correct_Explaination": "Correct! By definition, a quadrilateral is a polygon with four sides and four angles.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884637",
+  "QuizID": "PK202412425727",
+  "Question": "You are given a quadrilateral named ABCD. If side AB and side AD meet at point A, what type of sides are they?",
+  "Options": [
+    "Opposite sides",
+    "Parallel sides",
+    "Adjacent sides",
+    "Unequal sides"
+  ],
+  "Answer": "Adjacent sides",
+  "Explaination": "A. Opposite sides in a quadrilateral do not share a vertex.\n\nB. Parallelism isn’t the point here — adjacency is based on connection at a vertex.\n\nD. The question does not mention length, so this is irrelevant.",
+  "Correct_Explaination": "Correct! AB and AD share a common endpoint (vertex A), so they are adjacent sides of the quadrilateral.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884637",
+  "QuizID": "PK202412425728",
+  "Question": "What do we call the point where two sides of a triangle meet?",
+  "Options": [
+    "Side",
+    "Angle",
+    "Vertex",
+    "Base"
+  ],
+  "Answer": "Vertex",
+  "Explaination": "A. A side is the line between two vertices, not the point.\n\nB. An angle is the space between two sides, not the point itself.\n\nD. The base usually refers to the bottom side, not the meeting point.",
+  "Correct_Explaination": "Correct! A vertex is the point where two sides of a shape meet. In triangles and quadrilaterals, each corner is called a vertex.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884637",
+  "QuizID": "PK202412425729",
+  "Question": "Which of the following pairs in a quadrilateral ABCD are opposite angles?",
+  "Options": [
+    "∠A and ∠C",
+    "∠A and ∠B",
+    "∠A and ∠D",
+    "∠B and ∠C"
+  ],
+  "Answer": "∠A and ∠C",
+  "Explaination": "B. ∠A and ∠B are adjacent, not opposite.\n\nC. ∠A and ∠D are also next to each other.\n\nD. ∠B and ∠C are side by side — not opposite.",
+  "Correct_Explaination": "Correct! In a quadrilateral labeled ABCD, ∠A and ∠C are located across from each other, making them opposite angles.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884637",
+  "QuizID": "PK202412425730",
+  "Question": "You are looking at triangle XYZ. The sides XY and YZ meet at point Y. What angle is formed at point Y?",
+  "Options": [
+    "∠X",
+    "∠XYZ",
+    "∠Z",
+    "∠Y"
+  ],
+  "Answer": "∠Y",
+  "Explaination": "A. ∠X is at vertex X, not where XY and YZ meet.\n\nB. ∠XYZ describes a path, but the angle formed at point Y is just ∠Y.\n\nC. ∠Z is at vertex Z.",
+  "Correct_Explaination": "Correct! When sides XY and YZ meet at point Y, the angle formed there is ∠Y, which is the angle at vertex Y.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884657",
+  "QuizID": "PK2024128846571",
+  "Question": "What is the term for the distance from the center of a circle to any point on its boundary?",
+  "Options": [
+    "Diameter",
+    "Radius",
+    "Circumference",
+    "Chord"
+  ],
+  "Answer": "Radius",
+  "Explaination": "The radius is the distance from the center of the circle to any point on its boundary. It is a fundamental property of circles. Hence, the answer is B.",
+  "Correct_Explaination": "Great job! You correctly identified the radius, which is a key concept in understanding circles.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884657",
+  "QuizID": "PK2024128846572",
+  "Question": "How is the diameter of a circle related to its radius?",
+  "Options": [
+    "The diameter is twice the radius.",
+    "The diameter is half the radius.",
+    "The diameter is the same as the radius.",
+    "The diameter is unrelated to the radius."
+  ],
+  "Answer": "The diameter is twice the radius.",
+  "Explaination": "The diameter of a circle is twice the length of its radius. This is because the diameter spans the entire circle through its center. Hence, the answer is A.",
+  "Correct_Explaination": "Well done! You correctly explained the relationship between the radius and diameter of a circle.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884657",
+  "QuizID": "PK2024128846573",
+  "Question": "Which term describes the total distance around the boundary of a circle?",
+  "Options": [
+    "Diameter",
+    "Radius",
+    "Circumference",
+    "Area"
+  ],
+  "Answer": "Circumference",
+  "Explaination": "The circumference of a circle is the total distance around its boundary. It is calculated using the formula (C = 2*pi*r), where (r) is the radius. Hence, the answer is C.",
+  "Correct_Explaination": "Excellent! You correctly identified the circumference, a key property of circles.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884657",
+  "QuizID": "PK2024128846574",
+  "Question": "What do you call a line segment that passes through the center of a circle and has both endpoints on the circle?",
+  "Options": [
+    "Radius",
+    "Diameter",
+    "Chord",
+    "Tangent"
+  ],
+  "Answer": "Diameter",
+  "Explaination": "The diameter is a line segment that passes through the center of the circle and touches the circle at two points. It is the longest chord in the circle. Hence, the answer is B.",
+  "Correct_Explaination": "Good job! You identified the diameter, which is a key concept in understanding circles.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884657",
+  "QuizID": "PK2024128846575",
+  "Question": "What is a chord in a circle?",
+  "Options": [
+    "A line segment connecting two points on the circle",
+    "A line segment passing through the center of the circle",
+    "The distance around the circle",
+    "None of the above"
+  ],
+  "Answer": "A line segment connecting two points on the circle",
+  "Explaination": "A chord is a line segment that connects two points on the circle's boundary. The diameter is a special type of chord that passes through the center. Hence, the answer is A.",
+  "Correct_Explaination": "Well done! You correctly defined a chord, demonstrating an understanding of circle geometry.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884657",
+  "QuizID": "PK2024128846576",
+  "Question": "Which term describes a line that touches a circle at exactly one point?",
+  "Options": [
+    "Radius",
+    "Diameter",
+    "Tangent",
+    "Chord"
+  ],
+  "Answer": "Tangent",
+  "Explaination": "A tangent is a line that touches a circle at exactly one point. This unique property makes it distinct from other lines associated with circles. Hence, the answer is C.",
+  "Correct_Explaination": "Excellent! You correctly identified a tangent, a crucial concept in the geometry of circles.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889560",
+  "QuizID": "PK2025048895601",
+  "Question": "A pizza is cut into 8 equal slices. You eat 3 of those slices. What fraction represents the part of the pizza you ate?",
+  "Options": [
+    "8/3",
+    "3/5",
+    "3/8",
+    "3"
+  ],
+  "Answer": "3/8",
+  "Explaination": "A fraction represents a part of a whole. The denominator (bottom number) tells you the total number of equal parts the whole is divided into (8 slices). The numerator (top number) tells you how many of those parts you are considering (3 slices eaten). So, the fraction is 3/8. Option A confuses numerator and denominator. Option B uses the remaining slices (5) incorrectly as the denominator.",
+  "Correct_Explaination": "A fraction represents a part of a whole. The denominator (bottom number) tells you the total number of equal parts the whole is divided into (8 slices). The numerator (top number) tells you how many of those parts you are considering (3 slices eaten). So, the fraction is 3/8. Option A confuses numerator and denominator. Option B uses the remaining slices (5) incorrectly as the denominator.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889560",
+  "QuizID": "PK2025048895602",
+  "Question": "Look at the fraction 5/6. Which statement is true?",
+  "Options": [
+    "The whole is divided into 5 equal parts.",
+    "This fraction represents 6 parts.",
+    "The number 5 is the denominator.",
+    "The number 6 represents the total number of equal parts in the whole."
+  ],
+  "Answer": "The number 6 represents the total number of equal parts in the whole.",
+  "Explaination": "In the fraction 5/6, the numerator is 5 and the denominator is 6. The denominator (6) indicates the total number of equal parts the whole is divided into. The numerator (5) indicates how many of those parts are being considered. Therefore, statement D is correct.",
+  "Correct_Explaination": "In the fraction 5/6, the numerator is 5 and the denominator is 6. The denominator (6) indicates the total number of equal parts the whole is divided into. The numerator (5) indicates how many of those parts are being considered. Therefore, statement D is correct.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889560",
+  "QuizID": "PK2025048895603",
+  "Question": "A common mistake when starting with fractions is thinking that 1/10 is larger than 1/5. Why is this incorrect?",
+  "Options": [
+    "Because 10 is greater than 5.",
+    "Because 1/10 has two digits in the denominator.",
+    "Because dividing a whole into 10 parts makes each part smaller than dividing it into 5 parts.",
+    "Because 1/5 comes first if you count."
+  ],
+  "Answer": "Because dividing a whole into 10 parts makes each part smaller than dividing it into 5 parts.",
+  "Explaination": "When comparing unit fractions (fractions with a numerator of 1), the fraction with the larger denominator represents a smaller piece. Imagine a cake: if you cut it into 10 equal slices (1/10 each), the slices will be smaller than if you cut the same cake into 5 equal slices (1/5 each). Therefore, 1/5 is larger than 1/10.",
+  "Correct_Explaination": "When comparing unit fractions (fractions with a numerator of 1), the fraction with the larger denominator represents a smaller piece. Imagine a cake: if you cut it into 10 equal slices (1/10 each), the slices will be smaller than if you cut the same cake into 5 equal slices (1/5 each). Therefore, 1/5 is larger than 1/10.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889560",
+  "QuizID": "PK2025048895604",
+  "Question": "Imagine a chocolate bar divided into 4 equal squares. You shade 1 square. What fraction represents the shaded part?",
+  "Options": [
+    "1/4",
+    "4",
+    "1/2",
+    "1/3"
+  ],
+  "Answer": "1/4",
+  "Explaination": "The chocolate bar is the whole, and it's divided into 4 equal parts (denominator). You shaded 1 of those parts (numerator). So the fraction is 1/4.",
+  "Correct_Explaination": "The chocolate bar is the whole, and it's divided into 4 equal parts (denominator). You shaded 1 of those parts (numerator). So the fraction is 1/4.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889560",
+  "QuizID": "PK2025048895605",
+  "Question": "In the fraction 2/3, what is the bottom number called and what does it represent?",
+  "Options": [
+    "Denominator, represents the total number of equal parts in the whole.",
+    "Numerator, represents the parts we have.",
+    "Denominator, represents the parts we have.",
+    "Numerator, represents the total number of equal parts in the whole."
+  ],
+  "Answer": "Denominator, represents the total number of equal parts in the whole.",
+  "Explaination": "In any fraction, the top number is the numerator, and the bottom number is the denominator. The denominator tells us how many equal parts the whole has been divided into.",
+  "Correct_Explaination": "In any fraction, the top number is the numerator, and the bottom number is the denominator. The denominator tells us how many equal parts the whole has been divided into.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889560",
+  "QuizID": "PK2025048895606",
+  "Question": "If you share 1 apple equally between 2 friends, what fraction of the apple does each friend get?",
+  "Options": [
+    "2",
+    "1/2",
+    "1",
+    "1/4"
+  ],
+  "Answer": "1/2",
+  "Explaination": "The whole is 1 apple. It is being divided equally among 2 friends. So, the total number of equal parts is 2 (denominator), and each friend gets 1 of those parts (numerator). Each friend gets 1/2 of the apple.",
+  "Correct_Explaination": "The whole is 1 apple. It is being divided equally among 2 friends. So, the total number of equal parts is 2 (denominator), and each friend gets 1 of those parts (numerator). Each friend gets 1/2 of the apple.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889209",
+  "QuizID": "PK2025048892091",
+  "Question": "Which of the following fractions is an improper fraction?",
+  "Options": [
+    "3/4",
+    "1 1/2 (read as one and a half)",
+    "5/5",
+    "7/3"
+  ],
+  "Answer": "7/3",
+  "Explaination": "An improper fraction has a numerator greater than or equal to the denominator. 3/4 is a proper fraction (numerator < denominator). 1 1/2 is a mixed number. 5/5 is improper (numerator = denominator, equals 1). 7/3 is improper (numerator > denominator). Among the choices specifically fitting the greater than aspect often emphasized, 7/3 is the clearest example of an improper fraction representing more than one whole. (Note: 5/5 is also technically improper).",
+  "Correct_Explaination": "An improper fraction has a numerator greater than or equal to the denominator. 3/4 is a proper fraction (numerator < denominator). 1 1/2 is a mixed number. 5/5 is improper (numerator = denominator, equals 1). 7/3 is improper (numerator > denominator). Among the choices specifically fitting the greater than aspect often emphasized, 7/3 is the clearest example of an improper fraction representing more than one whole. (Note: 5/5 is also technically improper).",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889209",
+  "QuizID": "PK2025048892092",
+  "Question": "Are the fractions 4/6 and 10/15 equivalent?",
+  "Options": [
+    "Yes, they both simplify to 2/3.",
+    "No, the numbers are different.",
+    "No, one has smaller numbers than the other.",
+    "Yes, because 4+6 = 10 and 6+9 = 15."
+  ],
+  "Answer": "Yes, they both simplify to 2/3.",
+  "Explaination": "To check if fractions are equivalent, we can simplify them to their simplest form. For 4/6, the greatest common divisor of 4 and 6 is 2. Dividing numerator and denominator by 2 gives (4 ÷ 2) / (6 ÷ 2) = 2/3. For 10/15, the greatest common divisor of 10 and 15 is 5. Dividing numerator and denominator by 5 gives (10 ÷ 5) / (15 ÷ 5) = 2/3. Since both fractions simplify to 2/3, they are equivalent.",
+  "Correct_Explaination": "To check if fractions are equivalent, we can simplify them to their simplest form. For 4/6, the greatest common divisor of 4 and 6 is 2. Dividing numerator and denominator by 2 gives (4 ÷ 2) / (6 ÷ 2) = 2/3. For 10/15, the greatest common divisor of 10 and 15 is 5. Dividing numerator and denominator by 5 gives (10 ÷ 5) / (15 ÷ 5) = 2/3. Since both fractions simplify to 2/3, they are equivalent.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889209",
+  "QuizID": "PK2025048892093",
+  "Question": "You are given the mixed number 3 2/5 (read as three and two-fifths). Which statement correctly describes how to convert it to an improper fraction and what type of fractions are involved initially?",
+  "Options": [
+    "Multiply 3 x 2 and add 5, keep denominator 5.",
+    "Multiply 3 x 5 and add 2, keep denominator 5.",
+    "Add 3 + 2 + 5, keep denominator 5.",
+    "Multiply 3 x 5 and add 2, denominator becomes 3+5=8. "
+  ],
+  "Answer": "Multiply 3 x 5 and add 2, keep denominator 5.",
+  "Explaination": "A mixed number like 3 2/5 consists of a whole number (3) and a proper fraction (2/5, since 2 < 5). To convert it to an improper fraction, multiply the whole number by the denominator (3 x 5 = 15), add the numerator (15 + 2 = 17), and keep the original denominator (5). The result is 17/5. Statement B correctly describes this process and identifies the components.",
+  "Correct_Explaination": "A mixed number like 3 2/5 consists of a whole number (3) and a proper fraction (2/5, since 2 < 5). To convert it to an improper fraction, multiply the whole number by the denominator (3 x 5 = 15), add the numerator (15 + 2 = 17), and keep the original denominator (5). The result is 17/5. Statement B correctly describes this process and identifies the components.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889209",
+  "QuizID": "PK2025048892094",
+  "Question": "Which of these shows a proper fraction?",
+  "Options": [
+    "2 1/4 (read as two and one-fourth)",
+    "5/2",
+    "3/7",
+    "8/8"
+  ],
+  "Answer": "3/7",
+  "Explaination": "A proper fraction has a numerator (top number) that is smaller than the denominator (bottom number). In 3/7, 3 is smaller than 7, so it is a proper fraction. 2 1/4 is a mixed number. 5/2 is an improper fraction (5 > 2). 8/8 is an improper fraction (8 = 8).",
+  "Correct_Explaination": "A proper fraction has a numerator (top number) that is smaller than the denominator (bottom number). In 3/7, 3 is smaller than 7, so it is a proper fraction. 2 1/4 is a mixed number. 5/2 is an improper fraction (5 > 2). 8/8 is an improper fraction (8 = 8).",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889209",
+  "QuizID": "PK2025048892095",
+  "Question": "Look at these two fractions: 1/3 and 2/5. Are they like-fractions?",
+  "Options": [
+    "Yes, because they are both proper fractions.",
+    "No, because they have different denominators.",
+    "Yes, because their numerators are small.",
+    "No, because they have different numerators."
+  ],
+  "Answer": "No, because they have different denominators.",
+  "Explaination": "Like-fractions are fractions that have the same denominator. 1/3 has a denominator of 3, and 2/5 has a denominator of 5. Since the denominators (3 and 5) are different, these are unlike-fractions.",
+  "Correct_Explaination": "Like-fractions are fractions that have the same denominator. 1/3 has a denominator of 3, and 2/5 has a denominator of 5. Since the denominators (3 and 5) are different, these are unlike-fractions.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889209",
+  "QuizID": "PK2025048892096",
+  "Question": "Which fraction is equivalent to 1/2?",
+  "Options": [
+    "1/4",
+    "2/4",
+    "2/3",
+    "3/5"
+  ],
+  "Answer": "2/4",
+  "Explaination": "Equivalent fractions represent the same amount. You can find an equivalent fraction by multiplying the numerator and the denominator by the same number. If we multiply the numerator (1) and the denominator (2) of 1/2 by 2, we get (1 x 2) / (2 x 2) = 2/4. So, 2/4 is equivalent to 1/2.",
+  "Correct_Explaination": "Equivalent fractions represent the same amount. You can find an equivalent fraction by multiplying the numerator and the denominator by the same number. If we multiply the numerator (1) and the denominator (2) of 1/2 by 2, we get (1 x 2) / (2 x 2) = 2/4. So, 2/4 is equivalent to 1/2.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504884656",
+  "QuizID": "PK2025048846561",
+  "Question": "Set up the calculation needed to find the sum of 2/5 and 1/4. What is the first necessary step?",
+  "Options": [
+    "Add the numerators: 2+1=3.",
+    "Find a common denominator for 5 and 4.",
+    "Multiply the denominators: 5 x 4 = 20.",
+    "Add the denominators: 5+4=9."
+  ],
+  "Answer": "Find a common denominator for 5 and 4.",
+  "Explaination": "To add or subtract fractions with different denominators (unlike fractions), you must first find a common denominator. This means finding a number that both original denominators divide into evenly. Then, you convert each fraction to an equivalent fraction with that common denominator before adding or subtracting the numerators. Multiplying the denominators (Option C) gives a common denominator, but finding a common denominator (Option B) is the essential first step conceptual description.",
+  "Correct_Explaination": "To add or subtract fractions with different denominators (unlike fractions), you must first find a common denominator. This means finding a number that both original denominators divide into evenly. Then, you convert each fraction to an equivalent fraction with that common denominator before adding or subtracting the numerators. Multiplying the denominators (Option C) gives a common denominator, but finding a common denominator (Option B) is the essential first step conceptual description.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504884656",
+  "QuizID": "PK2025048846562",
+  "Question": "Which calculation is performed correctly?",
+  "Options": [
+    "1/2 x 3/4 = (1 x 3) / (2 x 4) = 3/8",
+    "1/2 + 3/4 = (1+3) / (2+4) = 4/6",
+    "3/4 ÷ 1/2 = (3 ÷ 1) / (4 ÷ 2) = 3/2",
+    "3/4 - 1/4 = (3-1) / (4-4) = 2/0"
+  ],
+  "Answer": "1/2 x 3/4 = (1 x 3) / (2 x 4) = 3/8",
+  "Explaination": "A) Correct: To multiply fractions, multiply the numerators together and the denominators together. B) Incorrect: To add fractions, you need a common denominator first. 1/2 = 2/4, so 2/4 + 3/4 = 5/4. C) Incorrect Method: To divide fractions, multiply by the reciprocal of the second fraction: 3/4 ÷ 1/2 = 3/4 x 2/1 = 6/4 = 3/2. The method shown is not the correct general procedure, even if the result happens to be right in this specific case. D) Incorrect: When subtracting fractions with the same denominator, subtract the numerators and keep the denominator: (3-1) / 4 = 2/4 (or 1/2). You never subtract the denominators.",
+  "Correct_Explaination": "A) Correct: To multiply fractions, multiply the numerators together and the denominators together. B) Incorrect: To add fractions, you need a common denominator first. 1/2 = 2/4, so 2/4 + 3/4 = 5/4. C) Incorrect Method: To divide fractions, multiply by the reciprocal of the second fraction: 3/4 ÷ 1/2 = 3/4 x 2/1 = 6/4 = 3/2. The method shown is not the correct general procedure, even if the result happens to be right in this specific case. D) Incorrect: When subtracting fractions with the same denominator, subtract the numerators and keep the denominator: (3-1) / 4 = 2/4 (or 1/2). You never subtract the denominators.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504884656",
+  "QuizID": "PK2025048846563",
+  "Question": "A recipe requires 3/4 cup of flour. You only have 1/3 cup of flour. How much more flour do you need?",
+  "Options": [
+    "2/1 cup",
+    "4/7 cup",
+    "5/12 cup",
+    "1/4 cup"
+  ],
+  "Answer": "5/12 cup",
+  "Explaination": "This problem requires subtraction: Amount needed - Amount you have. We need to calculate 3/4 - 1/3. First, find a common denominator for 4 and 3, which is 12. Convert the fractions: 3/4 = (3 x 3) / (4 x 3) = 9/12 and 1/3 = (1 x 4) / (3 x 4) = 4/12. Now subtract: 9/12 - 4/12 = (9-4) / 12 = 5/12. You need 5/12 cup more flour.",
+  "Correct_Explaination": "This problem requires subtraction: Amount needed - Amount you have. We need to calculate 3/4 - 1/3. First, find a common denominator for 4 and 3, which is 12. Convert the fractions: 3/4 = (3 x 3) / (4 x 3) = 9/12 and 1/3 = (1 x 4) / (3 x 4) = 4/12. Now subtract: 9/12 - 4/12 = (9-4) / 12 = 5/12. You need 5/12 cup more flour.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504884656",
+  "QuizID": "PK2025048846564",
+  "Question": "What is 1/5 + 2/5?",
+  "Options": [
+    "3/10",
+    "3/5",
+    "2/25",
+    "12/5"
+  ],
+  "Answer": "3/5",
+  "Explaination": "When adding fractions that have the same denominator (like fractions), you add the numerators and keep the same denominator. So, 1/5 + 2/5 = (1+2) / 5 = 3/5.",
+  "Correct_Explaination": "When adding fractions that have the same denominator (like fractions), you add the numerators and keep the same denominator. So, 1/5 + 2/5 = (1+2) / 5 = 3/5.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504884656",
+  "QuizID": "PK2025048846565",
+  "Question": "You have 6 meters of ribbon. You use 1/3 of it. How many meters of ribbon did you use?",
+  "Options": [
+    "2 meters",
+    "3 meters",
+    "1/18 meters",
+    "18 meters"
+  ],
+  "Answer": "2 meters",
+  "Explaination": "Finding 1/3 of 6 means calculating 1/3 x 6. You can write the whole number 6 as a fraction 6/1. Then multiply: 1/3 x 6/1 = (1 x 6) / (3 x 1) = 6/3. Simplifying 6/3 (6 divided by 3) gives 2. You used 2 meters of ribbon.",
+  "Correct_Explaination": "Finding 1/3 of 6 means calculating 1/3 x 6. You can write the whole number 6 as a fraction 6/1. Then multiply: 1/3 x 6/1 = (1 x 6) / (3 x 1) = 6/3. Simplifying 6/3 (6 divided by 3) gives 2. You used 2 meters of ribbon.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504884656",
+  "QuizID": "PK2025048846566",
+  "Question": "Is dividing a number by 2 the same as multiplying it by 1/2?",
+  "Options": [
+    "Yes",
+    "No",
+    "Only if the number is a fraction",
+    "Only if the number is a whole number"
+  ],
+  "Answer": "Yes",
+  "Explaination": "Dividing by any number is equivalent to multiplying by its reciprocal. The reciprocal of 2 (or 2/1) is 1/2. Therefore, dividing by 2 is always the same as multiplying by 1/2, regardless of whether the number being divided is whole, fractional, or decimal.",
+  "Correct_Explaination": "Dividing by any number is equivalent to multiplying by its reciprocal. The reciprocal of 2 (or 2/1) is 1/2. Therefore, dividing by 2 is always the same as multiplying by 1/2, regardless of whether the number being divided is whole, fractional, or decimal.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884667",
+  "QuizID": "PK2024128846674",
+  "Question": "A triangle has side lengths of 5 cm, 5 cm, and 8 cm. What type is it based on sides, and how do you know?",
+  "Options": [
+    "Equilateral, because all sides are equal",
+    "Scalene, because no sides are equal",
+    "Isosceles, because two sides are equal",
+    "Right, because it follows Pythagoras theorem"
+  ],
+  "Answer": "Isosceles, because two sides are equal",
+  "Explaination": "A.) Not all three sides are equal. B.) Two sides are equal, so not scalene. D.) The angle types aren’t provided — Pythagoras isn't relevant here.",
+  "Correct_Explaination": "Excellent! Since two sides (5 cm) are equal and the third is different, it's classified as isosceles.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884667",
+  "QuizID": "PK2024128846671",
+  "Question": "Which of the following triangles has all three sides equal?",
+  "Options": [
+    "Scalene triangle",
+    "Isosceles triangle",
+    "Equilateral triangle",
+    "Right triangle"
+  ],
+  "Answer": "Equilateral triangle",
+  "Explaination": "A.) Scalene has no equal sides. B.) Isosceles has only two equal sides. D.) A right triangle is classified by angle, not necessarily side length.",
+  "Correct_Explaination": "Excellent! An equilateral triangle has all three sides of equal length and all angles equal (60° each).",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884667",
+  "QuizID": "PK2024128846673",
+  "Question": "If a triangle has angles of 90°, 45°, and 45°, how would you classify it by both sides and angles?",
+  "Options": [
+    "Right, Equilateral",
+    "Acute, Isosceles",
+    "Right, Isosceles",
+    "Obtuse, Scalene"
+  ],
+  "Answer": "Right, Isosceles",
+  "Explaination": "A.) Equilateral triangles have all 60° angles. B.) The presence of a 90° angle makes it not acute. D.) No angle is greater than 90°, so it's not obtuse.",
+  "Correct_Explaination": "Excellent! It has a 90° angle, making it a right triangle, and two equal angles imply two equal sides, making it isosceles.",
+  "Course_Type": "Normal"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884667",
+  "QuizID": "PK2024128846675",
+  "Question": "You are given a triangle with angles: 30°, 60°, and 90°. A student classifies it as both scalene and right. Do you agree? Why or why not?",
+  "Options": [
+    "Yes, because all sides are different and it has a 90° angle",
+    "No, because 30° and 60° means it's equilateral.",
+    "Yes, because 30° and 60° are equal, so it's isosceles",
+    "No, because all angles are less than 90°, so it’s acute"
+  ],
+  "Answer": "Yes, because all sides are different and it has a 90° angle",
+  "Explaination": "B.) Equilateral triangles have all 60° angles. C.) 30° and 60° are not equal, so not isosceles. D.) One angle is 90°, not all acute.",
+  "Correct_Explaination": "Excellent! 30°, 60°, and 90° angles suggest a right triangle, and the sides are all different lengths (as in the classic 3-4-5 triangle scaled), so it's also scalene.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884667",
+  "QuizID": "PK2024128846676",
+  "Question": "If a triangle has angles of 90°, 45°, and 45°, how would you classify it by both sides and angles?",
+  "Options": [
+    "Obtuse and Equilateral",
+    "Obtuse and Isosceles",
+    "Obtuse and Scalene",
+    "Acute and Scalene"
+  ],
+  "Answer": "Obtuse and Scalene",
+  "Explaination": "A.) Equilateral triangles cannot have an obtuse angle. B.) Isosceles implies two equal sides, which is not the case here. D.) Acute triangles have all angles < 90°, not one > 90°.",
+  "Correct_Explaination": "Excellent! A triangle with one angle > 90° is obtuse, and if no sides are equal, it’s scalene. So the triangle is Obtuse Scalene.",
+  "Course_Type": "Remedial"
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884667",
+  "QuizID": "PK2024128846672",
+  "Question": "Why is a right triangle not always a scalene triangle?",
+  "Options": [
+    "It always has equal angles",
+    "A right triangle can have two equal sides",
+    "It cannot have a 90° angle",
+    "Scalene triangles cannot be right-angled"
+  ],
+  "Answer": "A right triangle can have two equal sides",
+  "Explaination": "A.) Right triangles don’t have all equal angles. C.) It must have a 90° angle. D.) A scalene triangle can be right-angled if all sides are different.",
+  "Correct_Explaination": "Excellent! A right triangle has one angle of 90°, and it can have two equal sides, making it an isosceles right triangle, not scalene.",
+  "Course_Type": "Normal"
+}]

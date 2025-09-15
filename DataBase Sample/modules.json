@@ -1,0 +1,192 @@
+[{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884637",
+  "ID": 1,
+  "Title": "Basics of Triangles & Quadrilaterals",
+  "Description": "This module consists of an introduction on triangles and quadrilaterals, covering basic definitions, sides, and angles.",
+  "Type": "Video",
+  "URL": "PK20241288997837493/1.mp4",
+  "Quiz": [
+    "PK202412425725",
+    "PK202412425726",
+    "PK202412425727"
+  ],
+  "Remedial": false,
+  "RemedialID": ""
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884657",
+  "ID": 2,
+  "Title": "Basics of Circle",
+  "Description": "This module consists of the definition of a circle and explains its key parts, including radius, diameter, chord, arc, sector, segment, and circumference.",
+  "Type": "Video",
+  "URL": "PK20241288997837493/2.mp4",
+  "Quiz": [
+    "PK2024128846571",
+    "PK2024128846572",
+    "PK2024128846573"
+  ],
+  "Remedial": false,
+  "RemedialID": ""
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884637",
+  "ID": 1,
+  "Title": "Basics of Triangles & Quadrilaterals",
+  "Description": "This module consists of an introduction on triangles and quadrilaterals, covering basic definitions, sides, and angles.",
+  "Type": "Notes",
+  "URL": "PK20241288997837493/1.pdf",
+  "Quiz": [
+    "PK202412425728",
+    "PK202412425729",
+    "PK202412425730"
+  ],
+  "Remedial": true,
+  "RemedialID": ""
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884657",
+  "ID": 2,
+  "Title": "Basics of Circle",
+  "Description": "This module consists of the definition of a circle and explains its key parts, including radius, diameter, chord, arc, sector, segment, and circumference.",
+  "Type": "Notes",
+  "URL": "PK20241288997837493/2.pdf",
+  "Quiz": [
+    "PK2024128846574",
+    "PK2024128846575",
+    "PK2024128846576"
+  ],
+  "Remedial": true,
+  "RemedialID": ""
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889560",
+  "ID": 1,
+  "Title": "Introduction to Fractions",
+  "Description": "This module introduces foundational fraction concepts, focusing on understanding, representing, comparing simple fractions, and recognizing common misconceptions.",
+  "Type": "Video",
+  "URL": "PK20250488997837997/1.mp4",
+  "Quiz": [
+    "PK2025048895601",
+    "PK2025048895602",
+    "PK2025048895603"
+  ],
+  "Remedial": false,
+  "RemedialID": ""
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889560",
+  "ID": 1,
+  "Title": "Introduction to Fractions",
+  "Description": "This module introduces foundational fraction concepts, focusing on understanding, representing, comparing simple fractions, and recognizing common misconceptions.",
+  "Type": "Notes",
+  "URL": "PK20250488997837997/1.pdf",
+  "Quiz": [
+    "PK2025048895604",
+    "PK2025048895605",
+    "PK2025048895606"
+  ],
+  "Remedial": true,
+  "RemedialID": ""
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889209",
+  "ID": 2,
+  "Title": "Types of Fractions",
+  "Description": "This module develops skills in distinguishing and converting between proper, improper, and mixed fractions, recognizing like and unlike fractions, and finding and simplifying equivalent fractions.",
+  "Type": "Video",
+  "URL": "PK20250488997837997/2.mp4",
+  "Quiz": [
+    "PK2025048892091",
+    "PK2025048892092",
+    "PK2025048892093"
+  ],
+  "Remedial": false,
+  "RemedialID": ""
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504889209",
+  "ID": 2,
+  "Title": "Types of Fractions",
+  "Description": "This module develops skills in distinguishing and converting between proper, improper, and mixed fractions, recognizing like and unlike fractions, and finding and simplifying equivalent fractions.",
+  "Type": "Notes",
+  "URL": "PK20250488997837997/2.pdf",
+  "Quiz": [
+    "PK2025048892094",
+    "PK2025048892095",
+    "PK2025048892096"
+  ],
+  "Remedial": true,
+  "RemedialID": ""
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504884656",
+  "ID": 3,
+  "Title": "Operations on Fractions",
+  "Description": "This module builds proficiency in adding, subtracting, multiplying, and dividing fractions, including solving real-world problems using fraction operations.",
+  "Type": "Video",
+  "URL": "PK20250488997837997/3.mp4",
+  "Quiz": [
+    "PK2025048846561",
+    "PK2025048846562",
+    "PK2025048846563"
+  ],
+  "Remedial": false,
+  "RemedialID": ""
+},
+{
+  "CourseID": "PK20250488997837997",
+  "ModuleID": "PK202504884656",
+  "ID": 3,
+  "Title": "Operations on Fractions",
+  "Description": "This module builds proficiency in adding, subtracting, multiplying, and dividing fractions, including solving real-world problems using fraction operations.",
+  "Type": "Notes",
+  "URL": "PK20250488997837997/3.pdf",
+  "Quiz": [
+    "PK2025048846564",
+    "PK2025048846565",
+    "PK2025048846566"
+  ],
+  "Remedial": true,
+  "RemedialID": ""
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884667",
+  "ID": 3,
+  "Title": "Classification of Triangles",
+  "Description": "This module consists of how triangles are classified based on their sides and angles.",
+  "Type": "Video",
+  "URL": "PK20241288997837493/3.mp4",
+  "Quiz": [
+    "PK2024128846671",
+    "PK2024128846672",
+    "PK2024128846673"
+  ],
+  "Remedial": false,
+  "RemedialID": ""
+},
+{
+  "CourseID": "PK20241288997837493",
+  "ModuleID": "PK202412884667",
+  "ID": 3,
+  "Title": "Classification of Triangles",
+  "Description": "This module consists of how triangles are classified based on their sides and angles.",
+  "Type": "Notes",
+  "URL": "PK20241288997837493/3.pdf",
+  "Quiz": [
+    "PK2024128846674",
+    "PK2024128846675",
+    "PK2024128846676"
+  ],
+  "Remedial": true,
+  "RemedialID": ""
+}]
